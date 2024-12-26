@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676ca908bf8a025904c73bf8"
+  },
+  "nama": "sauna hangat",
+  "saunaid": "001",
+  "kapasitas": "50 orang",
+  "deskripsi": "tempat yang nyaman untuk didatangi"
+}]

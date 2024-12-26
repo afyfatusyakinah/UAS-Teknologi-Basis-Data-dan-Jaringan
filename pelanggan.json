@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "676ca9debf8a025904c73bf9"
+  },
+  "nama": "angga",
+  "pelangganid": "234",
+  "nomor hp": "08781234",
+  "email": "angga@com",
+  "tanggal registrasi": "12 desember 2024"
+}]

@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "676caa9cbf8a025904c73bfa"
+  },
+  "pembayaranid": "09876",
+  "tanggal registrasi": "12 desember 2024",
+  "jumlah bayar": "300 ribu",
+  "tanggal bayar": "12 desember 2024",
+  "metode pembayaran": "cash"
+}]
